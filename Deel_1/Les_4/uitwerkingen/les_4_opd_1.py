@@ -1,0 +1,7 @@
+print(15+4)  # Uitkomst: 19 (optelling)
+print(15-4)  # Uitkomst: 11 (aftrekking)
+print(15*4)  # Uitkomst: 60 (vermenigvuldiging)
+print(15/4)  # Uitkomst: 3.75 (deling, geeft een decimaal getal)
+print(15//4) # Uitkomst: 3 (gehele deling, resultaat wordt afgerond naar beneden)
+print(15**4) # Uitkomst: 50625 (exponentiatie)
+print(15%4)  # Uitkomst: 3 (modulo, het overblijfsel na deling)
