@@ -32,12 +32,13 @@
 
  
 
-# Opdracht 4:
+# # Opdracht 4:
 
-# # # Los de problemen op (zonder exception handling).
-leeftijd = input("Hoe oud ben je?")
-print(f"Dan duurt het nog ongeveer (67 - leeftijd) jaar voordat je met pensioen mag!")
-# # # Is 18 ingevuld? Dan zie je op de terminal: Dan duurt het nog ongeveer 49 jaar voordat je met pensioen mag!
+# # # # Los de problemen op (zonder exception handling).
+# leeftijd = input("Hoe oud ben je?")
+
+# print(f"Dan duurt het nog ongeveer 49 jaar voordat je met pensioen mag!")  
+# # # # Is 18 ingevuld? Dan zie je op de terminal: Dan duurt het nog ongeveer 49 jaar voordat je met pensioen mag!
 
  
 
